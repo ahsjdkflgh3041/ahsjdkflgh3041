@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahsjdkflgh3041
-- 👀 I’m interested in ... Unity3D, Web, scikit-learn
-- 🌱 I’m currently learning ... Chrome extension
-- 💞️ I’m looking to collaborate on ... Web projects
+- 👀 I’m interested in ... Unity3D,Front-End
+- 🌱 I’m currently learning ... Unity C#
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... chomh12345@gmail.com
 
 <!---
