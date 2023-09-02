@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahsjdkflgh3041
-- 👀 I’m interested in ... Unity3D,Front-End
+- 👀 I’m interested in ... Unity
 - 🌱 I’m currently learning ... Unity C#
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... chomh12345@gmail.com
